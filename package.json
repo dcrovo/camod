@@ -1,0 +1,24 @@
+{
+  "name": "camod",
+  "version": "1.0.0",
+  "description": "Camod S.A.S website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcrovo/camod.git"
+  },
+  "author": "Daniel Crovo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcrovo/camod/issues"
+  },
+  "homepage": "https://github.com/dcrovo/camod#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0",
+    "popper": "^1.0.1"
+  }
+}
